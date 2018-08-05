@@ -1,0 +1,19 @@
+{
+  "name": "simple-online-shop",
+  "version": "1.0.0",
+  "description": "Simple online shop",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marutovsky/simple-online-shop.git"
+  },
+  "author": "Damian Marut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marutovsky/simple-online-shop/issues"
+  },
+  "homepage": "https://github.com/Marutovsky/simple-online-shop#readme"
+}
